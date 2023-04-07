@@ -1,0 +1,21 @@
+body {
+    background-image: url('/Examen/img/fondo\ 2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+* {
+    color: white;
+}
+
+* {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+footer {
+    background-color: rgb(17, 17, 17);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
